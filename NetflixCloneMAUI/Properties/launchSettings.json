@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Windows Machine": {
+      "commandName": "MsixPackage", // Project // NuGet\Install-Package Microsoft.UI.Xaml -Version 2.8.2  asd
+      "nativeDebugging": false
+    }
+  }
+}
